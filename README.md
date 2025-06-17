@@ -43,7 +43,7 @@ You will be prompted to:
 3. Specify the output directory (press Enter to use the current working directory).
 
 **📁 Example:**
-
+```
 Enter the YouTube video URL: https://www.youtube.com/watch?v=abcd1234
 Title: Sample Video Title
 Views: 1234567
@@ -54,6 +54,7 @@ Enter the output path (default is current directory): /Users/yourname/Downloads
 
 Downloading to: /Users/yourname/Downloads
 Download completed successfully.
+```
 
 ## ⚠️ Notes
 

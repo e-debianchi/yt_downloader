@@ -11,24 +11,24 @@ It is based on the [`pytubefix`](https://pypi.org/project/pytubefix/) library.
 - Specify the output directory for downloads.
 - Cross-platform support.
 
-## 🛠 Requirements
+## 🛠 Installation
+
+### Requirements
 
 - Python 3.7+
 - [pytubefix](https://pypi.org/project/pytubefix/)
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/5e77e/yt_downloader.git
-cd yt_downloader
-```
 
 Install dependencies:
 
 ```bash
 pip install pytubefix
+```
+
+Clone the repository:
+
+```bash
+git clone https://github.com/e-debianchi/yt_downloader.git
+cd yt_downloader
 ```
 
 ## 🚀 Usage
